@@ -1,6 +1,6 @@
 # Micro-bioinformatics
 
-author: AZKA FAHEEM <br>
+Author: AZKA FAHEEM <br>
 Contact info: AzJk0197@gmail.com <br>
 LinkedIn: www.linkedin.com/in/azka-faheem <br>
 
